@@ -53,7 +53,7 @@ npm start
 
 ## 👩‍💻 Contributor
 
-Built by **[Your Name]** — focused on efficient backend structuring and clean UI delivery.
+Built by **Keerthi Kumar K J** — focused on efficient backend structuring and clean UI delivery.
 
 ## 📄 License
 
